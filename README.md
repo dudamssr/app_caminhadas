@@ -16,10 +16,12 @@ Uma aplicação em Flutter desenvolvida para registar e acompanhar caminhadas, p
 
 ## Prints
 
+
+
 ---
 
 ## Como Executar o Projeto
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/app_caminhadas.git](https://github.com/seu-usuario/app_caminhadas.git)
+   git clone https://github.com/dudamssr/app_caminhadas.git
