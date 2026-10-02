@@ -6,7 +6,7 @@ Uma aplicação em Flutter desenvolvida para registar e acompanhar caminhadas, p
 
 ## Funcionalidades
 
--  **Mapeamento de Rotas:** Integração com mapas interativos (`flutter_map` e OpenStreetMap) para exibições de rotas com marcadores de início e fim.
+-  **Mapeamento de Rotas:** Integração com mapas interativos para exibições de rotas com marcadores de início e fim.
 - **Registo Fotográfico:** Adição e seleção de imagens da galeria para personalizar cada caminhada (compatível com Flutter Web e dispositivos móveis).
 - **Métricas de Exercício:** Cálculo automático e estimativa de distância percorrida, tempo de duração e calorias queimadas.
 - **Suporte a Temas:** Alternância simples entre Tema Claro (*Light Mode*) e Tema Escuro (*Dark Mode*).
@@ -15,7 +15,11 @@ Uma aplicação em Flutter desenvolvida para registar e acompanhar caminhadas, p
 ---
 
 ## Prints
-
+![Minhas caminhadas](prints/inicio.png)
+![Minhas caminhadas](prints/pag1.png)
+![Minhas caminhadas](prints/pag2.png)
+![Minhas caminhadas](prints/pag3.png)
+![Minhas caminhadas](prints/pag4.png)
 
 
 ---
