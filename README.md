@@ -35,6 +35,6 @@ Antes de começar, certifique-se de ter instalado na sua máquina:
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/app_caminhadas.git](https://github.com/seu-usuario/app_caminhadas.git)
+   git clone https://github.com/dudamssr/app_caminhadas.git
 
   ### Se desejar instalar no seu celular [baixe o APK](./assets/app-release.apk)
